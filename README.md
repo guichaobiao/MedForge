@@ -19,12 +19,13 @@ MedForge is designed to evaluate whether a model can distinguish real and forged
 ---
 
 ## Dataset Release
+MedForge contains a large number of forged medical images, many of which are generated or edited by large-scale generative models. Although these data are valuable for research on medical image forensics and authenticity verification, unrestricted release may raise safety concerns, including the potential misuse of synthetic medical images or the creation of misleading medical content.
 
-We currently release **a partial version** of the MedForge dataset for research preview.
+To reduce these risks, we currently release only a partial version of the MedForge dataset for research preview and reproducibility. The complete dataset will be released after the paper is accepted and after appropriate safeguards are finalized.
 
-The full dataset will be released after the paper is accepted.
+In addition to the processed version used in our experiments, we also plan to release an original-resolution version of MedForge, which preserves the original image sizes before resizing or preprocessing.
 
-We also plan to release an additional **original-resolution version** of MedForge, which preserves the original image sizes before resizing or preprocessing.
+MedForge is intended strictly for academic research on medical image authenticity verification. It should not be used for clinical diagnosis, medical decision-making, commercial deployment, or harmful content generation.
 
 | Version                      | Status                  | Description                          |
 | ---------------------------- | ----------------------- | ------------------------------------ |
@@ -32,7 +33,8 @@ We also plan to release an additional **original-resolution version** of MedForg
 | MedForge-Full                | Coming after acceptance | Complete dataset used in the paper   |
 | MedForge-Original-Resolution | Coming after acceptance | Original-size version of the dataset |
 
-Download links:
+MedForge-Preview   
+Download links: 
 
 ```text
 MedForge-Preview: [Available]
