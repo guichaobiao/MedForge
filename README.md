@@ -49,7 +49,7 @@ MedForge-Original-Resolution: [Released after acceptance]
 Example visualization:
 
 <p align="center">
-  <img src="examples/medforge_examples.png" width="800">
+  <img src="Fake.png" width="800">
 </p>
 
 ---
