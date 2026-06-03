@@ -34,7 +34,7 @@ MedForge is intended strictly for academic research on medical image authenticit
 | MedForge-Original-Resolution | Coming after acceptance | Original-size version of the dataset |
 
 MedForge-Preview   
-Download links: 
+Download links: https://pan.baidu.com/s/17ianYqbEKZFsttuCiuN87A?pwd=xhny
 
 ```text
 MedForge-Preview: [Available]
