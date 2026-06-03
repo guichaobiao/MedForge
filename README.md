@@ -89,16 +89,6 @@ Please do not use MedForge for clinical diagnosis, commercial deployment, or gen
 
 The full license will be provided with the official dataset release.
 
----
-
-## Contact
-
-For questions about MedForge, please contact:
-
-```text
-Chenquan Gong
-13862991030@163.com
-```
 
 ---
 
